@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grantkal
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Tensorflow
+- 👀 I’m interested in Data Engineering, Machine Learning and AI
+- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Building Models in Agriculture to improve farm operations
 - 📫 How to reach me: grantkalu@gmail.com
 
